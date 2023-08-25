@@ -1,0 +1,139 @@
+.container{padding:0px;margin:0px;height:1000px;width:fixed;}
+.banner{background:url("mauli-background.jpg");height:1000px; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;opacity: 0.8;}
+.nav{background-color:white;height:40px;}
+.nav ul{list-style:none;padding:0x;float:right;line-height:5px;}
+.nav ul li{display:inline-block;}
+.nav ul li a{text-decoration:none;margin:5px;color:black;font-family:arial;font-size:13px;}
+.nav a:hover {color:red;}
+.nav .active {color:red;}
+.mauli{padding-top:130px;padding-left:470px;}
+.mauli .name h1{font-size:80px;font-family:sans-serif;font-style:bold;color:white;}
+.mauli .name p{color:white;font-family:monospace;margin-top:-55px;font-size:28px;padding-left:50x!important;}
+.mauli .name .space p{color:white;margin-left:-23px;padding-top:30px!important;}
+.mauli h3{    position: absolute;
+    color: white;
+    font-family: cursive;
+    font-size: 40px;
+    margin-left: -80;
+    margin-top: 0;}
+.mauli .quality p{margin-top: 70;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -300px;
+    position: absolute;background-color:rgba(0,0,0,0.2);;
+}
+.mauli .buttonwork input{color:#f0a842;margin-left:50px;margin-top:130px;font-family:cursive;background-color:rgba(35,32,28,0.3);border-color:white;}
+
+
+.aboutbanner{background-image:url("constu.jpg");height:1000; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;opacity: 0.8;}
+.mauliall {padding-top:-5px;padding-left:30px;float:left;padding-top:0px;position:relative;background-color:rgba(28,17,20,0.2);}
+.mauliall .name h1{font-size:30px;font-family:sans-serif;font-style:bold;color:#d2853d;padding-top:0px;}
+.mauliall .name p{color:#d2853d;font-family:monospace;margin-top:-15px;font-size:15px;}
+.mauliall .name .space p{color:black;margin-top:-25px;margin-left:-15px;}
+.mauliall .bui{color:grey;font-family:cursive;position:relative;margin-top:-12px;margin-left:-10px;}
+
+.main .headmauli{padding-top:30px;margin-left:550px;color:black;font-family:cursive;postion:relative;text-decoration:underline;}
+.imggback{margin-top: 100;margin-left: -100;float: left;background-color: black;height: 500px;width: 350px;border-radius:30px;}
+.img{margin-left: 200;position: absolute;margin-top:150;margin-left:125;border-radius:30px!important;}
+.director{float:right;width:800px;margin-top:150px;color:white;padding-left:-100;background-color:rgba(28,17,20,0.2);}
+.img .bor{border-radius:30px;}
+.director .direct{color:white;font-size:30px;margin-top:-50px;margin-left:-2px;font-style:italic;background-color:rgba(28,17,20,0.2);}
+.main .cname{font-size:20px;font-style:oblique;background-color:rgba(28,17,20,0.2);}
+.main .dayap{margin-top:-20px;font-family:cursive;}
+
+
+
+.whatwebanner{background-image:url("istockphoto.jpg");height:1000; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;opacity: 0.8;}
+.directorwhat{float:right;width:400px;margin-top:150px;color:white;padding-right:400px;}
+.main .dayapaa{margin-top:-20px;font-family:cursive;font-size:18px;}
+.main .cnamepaa{font-size:25px;font-style:oblique;}
+.worktoge{float:right;width:430px;margin-top:0px;color:white;padding-right:100px;}
+.main .dayapaawork{margin-top:-20px;font-family:cursive;font-size:18px;color:darkblue;padding-left: 19px;background-color:rgba(74,101,22,0.3);padding-top:10;padding-bottom:10}
+.main .cnamepaawork{font-family: system-ui;
+    font-size: 25px;
+    color: firebrick;
+    text-align: center;}
+
+.workanner{background-image:url("ourwork.jpg");height:1000; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;opacity: 0.8;}
+.workannerbackgo{background-color:rgba(0,0,0,0.5);height:1000; width:fixed;}
+.main .headmauliwork{color:white;padding-top:20px;margin-left:550px;font-family:cursive;postion:absolute!important;text-decoration:underline;}
+.outworkpp{color: darkgoldenrod;
+    margin-top: 70;
+    margin-left: 1;
+    background-color: black;
+    font-size: 20;
+    padding-top: 20;
+    padding-left: 10;
+    padding-bottom: 10;}
+.servicehead{    color: yellow;
+    font-size: 30;padding-top:30;margin-left:330px;}
+.main .bondbox{background-color:black;}
+.imggbacwork{padding-left:90px;margin-top: -160;}
+.main .imggbacwork1{    margin-top: 200;margin-left: 0;float: left;background-color:rgba(105,105,105,0.9);; height: 230;width: 230;border-radius: 50px;}
+.main .imggbacwork2{    margin-top: 400;margin-left: 0;float: left;background-color: rgba(105,105,105,0.9); height: 230;width: 230;border-radius: 50px;}
+.main .imggbacwork3{    margin-top: 200;margin-left: 0;float: left;background-color: rgba(105,105,105,0.9); height: 230;width: 230;border-radius: 50px;}
+.main .imggbacwork4{    margin-top: 400;margin-left: 0;float: left;background-color: rgba(105,105,105,0.9); height: 230;width: 230;border-radius: 50px;}
+.main .imggbacwork5{    margin-top: 200;margin-left: 0;float: left;background-color: rgba(105,105,105,0.9); height: 230;width: 230;border-radius: 50px;}
+.imggbacwork p{font-family:cursive;margin-left:8px;font-size:25px;margin-top:75px;text-align:-webkit-center;color:darkred;}
+
+
+.servicesback{background-image:url("aboutimg.jpg");height:1000; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;}
+.weall{margin-left: 600;
+    color: black;
+    padding-top: 19px;}
+.precon{
+        margin-left: 150;
+    margin-top: 139;
+    margin-right: 150;
+    font-size: 18px;
+    font-family: system-ui;color:white;background-color:rgba(0,0,0,0.2);}
+
+.precon2{float: left;
+    margin-left: 158px;
+    margin-right: 718 ;
+	    margin-top: 85px;font-size: 18px;
+    font-family: system-ui;color:white;background-color:rgba(0,0,0,0.2);}
+.precon3{    float: right;
+    margin-left: 680;
+    margin-right: 144;
+    margin-top: -175;font-size: 18px;
+    font-family: system-ui;color:white;background-color:rgba(0,0,0,0.2);}
+	.construction{    text-align: -webkit-center;
+    font-size: 30;color:khaki;margin-top:1;background-color:rgba(0,0,0,0.2);}
+	.postconstuction{font-size: 30;}
+	.conpara{margin-top: -9px;color:floralwhite;padding-left: 22;
+    padding-bottom: 10;}
+
+
+
+
+.contactback {background-image:url("contactus.jpg");height:1000; width:fixed;background-repeat:no-repeat;background-size: cover;padding:0px;margin:-6px;}
+.allcontactset{padding-top:120px;}
+.customerinfo{float: left;
+    margin-left: 116;
+    margin-top: 50;
+}
+.customerinfo input{height: 39px;
+    MARGIN-TOP: 25;
+    width: 450px;
+    color:black;
+    BORDER-COLOR: white;
+    DISPLAY: LIST-ITEM;text-align:top;}
+	
+.custoright{    float: right;
+    font-family: cursive;
+    margin-top: -507;
+    margin-left: 700;
+	margin-right:35;
+font-size: 17px;}
+.allh5co{font-size:21;font-family:cursive;}
+.checkp{    MARGIN-TOP: -26px;
+    MARGIN-LEFT: 28px;
+    font-family: cursive;
+    font-size: 15px;
+}
+.custoright .allp{margin-top:-20px;}
+.custoright ul{margin-top: -22px;margin-left: -37px;list-style: none;}
+..custoright ul li{text-decoration:none;} 
+.placein{font-size:15;vertical-align:top;}
